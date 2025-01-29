@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Justin Seh</h1>
 <h3 align="center">A happy-go-lucky finance and computer science student from Monash Malaysia!</h3>
 
-- 🔭 I’m currently working on **School Projectsss..**
+- 🔭 I’m currently working on **an AI & Data Challenge and self-learning**
 
-- 🌱 I’m currently learning **even more Algorithmss**
+- 🌱 I’m currently learning **Cloud Computing and IoT**
 
 - ⚡ Fun fact **I have one single eyelid and one double eyelid 👀**
 
